@@ -74,6 +74,6 @@ Deliverables 1 and 2 are to be done individually and Deliverable 3 in group as p
 ## VI: Grading Rubric
 
 - Compilation: **10** Points
-- Implemented PID: **40** Points
-- Tuned PID: **40** Points
-- Video: **10** Points
+- Implemented PID: **15** Points
+- Tuned PID: **5** Points
+- Video (Simulator + hardware): **15** Points
